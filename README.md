@@ -1,15 +1,15 @@
-#Pre-trained Image Classifier to Identify Dog Breeds
+# Pre-trained Image Classifier to Identify Dog Breeds
 
-##Project Goal
+## Project Goal
 
 Enhance your programming skills using Python by leveraging a provided image classifier to identify dog breeds in a citywide dog show registration system.
 
-##Description
+## Description
 
 Your city is hosting a citywide dog show and you have volunteered to help the organizing committee with contestant registration. Every participant that registers must submit an image of their dog along with biographical information about their dog. The registration system tags the images based upon the biographical information.
 Some people are planning on registering pets that aren’t actual dogs.You need to use an already developed Python classifier to make sure the participants are dogs.
 
-##Tasks
+## Tasks
 
 1.Using your Python skills, you will determine which image classification algorithm works the "best" on classifying images as "dogs" or "not dogs".
 
@@ -17,7 +17,7 @@ Some people are planning on registering pets that aren’t actual dogs.You need 
 
 3.Time how long each algorithm takes to solve the classification problem. 
 
-##Principal Objectives
+## Principal Objectives
 
 1.Correctly identify which pet images are of dogs (even if the breed is misclassified) and which pet images aren't of dogs.
 
@@ -27,7 +27,7 @@ Some people are planning on registering pets that aren’t actual dogs.You need 
 
 4.Consider the time resources required to best achieve objectives 1 and 2, and determine if an alternative solution would have given a "good enough" result, given the amount of time each of the algorithms takes to run.
 
-##Submission Results
+## Submission Results
 
 
 
