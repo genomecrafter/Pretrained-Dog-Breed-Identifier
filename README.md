@@ -19,4 +19,7 @@ Principal Objectives
 4.Consider the time resources required to best achieve objectives 1 and 2, and determine if an alternative solution would have given a "good enough" result, given the amount of time each of the algorithms takes to run.
 
 Submission Results
+
+
+
 <img width="758" alt="image" src="https://github.com/user-attachments/assets/f52cff90-d1e4-4dcc-b39b-6bb9c9538de7">
