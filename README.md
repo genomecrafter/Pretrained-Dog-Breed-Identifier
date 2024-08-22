@@ -15,15 +15,25 @@ Tasks
 
 
 1.Using your Python skills, you will determine which image classification algorithm works the "best" on classifying images as "dogs" or "not dogs".
-2.Determine how well the "best" classification algorithm works on correctly identifying a dog's breed. 
+
+
+2.Determine how well the "best" classification algorithm works on correctly identifying a dog's breed.
+
+
 3.Time how long each algorithm takes to solve the classification problem. 
 
 Principal Objectives
 
 
 1.Correctly identify which pet images are of dogs (even if the breed is misclassified) and which pet images aren't of dogs.
+
+
 2.Correctly classify the breed of dog, for the images that are of dogs.
+
+
 3.Determine which CNN model architecture (ResNet, AlexNet, or VGG), "best" achieve objectives 1 and 2.
+
+
 4.Consider the time resources required to best achieve objectives 1 and 2, and determine if an alternative solution would have given a "good enough" result, given the amount of time each of the algorithms takes to run.
 
 Submission Results
